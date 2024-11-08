@@ -5,3 +5,4 @@ plotly
 pillow
 requests
 seaborn
+xlsxwriter
