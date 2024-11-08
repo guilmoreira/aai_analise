@@ -6,3 +6,4 @@ pillow
 requests
 seaborn
 xlsxwriter
+io
