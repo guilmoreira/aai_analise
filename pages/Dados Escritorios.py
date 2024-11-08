@@ -23,7 +23,6 @@ import datetime as dt
 from datetime import timedelta
 from datetime import datetime
 from datetime import date
-import geopandas as gpd
 import io
 import numpy as np
 import pandas as pd
